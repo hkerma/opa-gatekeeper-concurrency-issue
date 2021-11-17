@@ -10,7 +10,7 @@ In the reproductible example, we are enforcing "Unique Service Selector" policy 
 
 The following video shows the PoC running in a Kubernetes cluster using Ubuntu 18.04.5, kubectl v1.20, gatekeeper v3.1.3.
 
-<img src="poc.gif" width="600" />
+<img src="poc.gif" width="750" />
 
 Steps:
 Using a Kubernetes cluster:
